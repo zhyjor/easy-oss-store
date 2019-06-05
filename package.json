@@ -1,0 +1,23 @@
+{
+  "name": "easy-oss-store",
+  "version": "1.0.0",
+  "description": "oss upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhyjor/easy-oss-store.git"
+  },
+  "keywords": [
+    "oss",
+    "upload"
+  ],
+  "author": "zhyjor@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhyjor/easy-oss-store/issues"
+  },
+  "homepage": "https://github.com/zhyjor/easy-oss-store#readme"
+}
